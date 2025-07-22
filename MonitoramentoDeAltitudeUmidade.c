@@ -10,8 +10,8 @@
 #include "pico/cyw43_arch.h"
 #include "lib/buzzer.h"
 
-#define WIFI_SSID "Wifi Lipe"
-#define WIFI_PASSWORD "loukikolipe"
+#define WIFI_SSID "NOME_WIFI"
+#define WIFI_PASSWORD "SEHA_WIFI"
 #define BUZZER_PIN 21
 #define I2C_PORT i2c0               // i2c0 pinos 0 e 1, i2c1 pinos 2 e 3
 #define I2C_SDA 0                   // 0 ou 2
